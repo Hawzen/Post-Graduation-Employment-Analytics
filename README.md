@@ -1,7 +1,7 @@
 # Post_Graduation_Employment_Analytics
 An analysis of fresh graduates' employment status
 
-https://hawzen.github.io/Post_Graduation_Employment_Analytics/
+https://hawzen.github.io/Post-Graduation-Employment-Analytics/
 
 الزبدة كالتالي:
 - ما يهم معدلك يكون توب التوب، اهم شي 4.5 وفوق
